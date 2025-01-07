@@ -7,7 +7,7 @@ Empower your blockchain journey with automated trading, wallet management, and a
 
 ## Links
 
-https://artificialsapien.xyz
+https://artificialsapien.xyz 
 https://x.com/sapiencorp
 
 ## Overview
