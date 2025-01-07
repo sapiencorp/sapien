@@ -40,7 +40,7 @@ These agents are powered by our native token **$sapien**, which is used for tran
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sapiencorp/sapien.git
-   cd artificialsapien
+   cd sapiencorp
 
 Install Rust:
 Follow the installation instructions at rust-lang.org.
