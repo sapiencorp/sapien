@@ -3,6 +3,8 @@
 Welcome to **artificial sapien**, a pioneering AI platform for interacting with the Solana blockchain through customized AI agents. 
 Empower your blockchain journey with automated trading, wallet management, and asset tracking, all under the hood of advanced AI technology.
 
+![sapienbanner](https://github.com/user-attachments/assets/65a5cacf-fdd8-4cc4-bc9d-e57eb868ad8f)
+
 ## Links
 
 artificialsapien.xyz
