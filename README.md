@@ -1,4 +1,4 @@
-$sapien
+## $sapien
 
 Welcome to **artificial sapien**, a pioneering AI platform for interacting with the Solana blockchain through customized AI agents. 
 Empower your blockchain journey with automated trading, wallet management, and asset tracking, all under the hood of advanced AI technology.
